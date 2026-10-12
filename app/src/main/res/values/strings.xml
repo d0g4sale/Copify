@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Copify</string>
+    <string name="share_label">Copy to clipboard</string>
+    <string name="copied_image">Image copied to clipboard</string>
+    <string name="copied_images">%d images copied to clipboard</string>
+    <string name="copied_text">Text copied to clipboard</string>
+    <string name="copy_failed">Couldn\'t copy that to the clipboard</string>
+
+    <!-- Launcher screen -->
+    <string name="tagline">Copy screenshots, images, and text straight from the share menu.</string>
+    <string name="ready_title">Ready to go</string>
+    <string name="ready_body">There\'s nothing to set up. Copify shows up as \"Copy to clipboard\" whenever you share.</string>
+    <string name="how_to_title">How to use it</string>
+    <string name="step1_title">Take a screenshot</string>
+    <string name="step1_body">Or open any image or text you want to copy.</string>
+    <string name="step2_title">Tap Share</string>
+    <string name="step2_body">Use Share in the screenshot preview, or in any other app.</string>
+    <string name="step3_title">Choose \"Copy to clipboard\"</string>
+    <string name="step3_body">Copify copies it and closes on its own.</string>
+    <string name="step4_title">Paste anywhere</string>
+    <string name="step4_body">Long-press a text field in any app that takes images or text, then tap Paste.</string>
+    <string name="tip_title">Tip: pin it</string>
+    <string name="tip_body">In the share menu, long-press \"Copy to clipboard\" and choose Pin so it\'s always at the top.</string>
+    <string name="supports_title">What you can copy</string>
+    <string name="supports_images">Images, including several at once</string>
+    <string name="supports_text">Text and links</string>
+    <string name="try_it">Try it now</string>
+    <string name="try_it_hint">Opens the share menu with sample text. Pick \"Copy to clipboard\".</string>
+    <string name="sample_text">Hello from Copify! 👋</string>
+</resources>

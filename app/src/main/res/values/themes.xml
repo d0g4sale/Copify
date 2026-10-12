@@ -1,0 +1,6 @@
+<resources>
+    <!-- Only the window background matters here; Compose draws the rest. -->
+    <style name="Theme.Copify" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>
